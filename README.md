@@ -41,4 +41,4 @@ JobType: Enumerated data structure representing different types of jobs.
 
 ## Project Summary
 
-This project is a basic student and event management system that allows users to add, retrieve, update, and delete student and event data. It uses RESTful web services to handle HTTP requests and responses, and Spring Boot to provide a simple, easy-to-use framework for building the application. Data is stored and managed using the H2 in-memory database, which makes it easy to develop and test the application locally without the need for a separate database server.
+This project is a basic Job search system that allows users to add, retrieve, update, and delete Jobs related data. It uses RESTful web services to handle HTTP requests and responses, and Spring Boot to provide a simple, easy-to-use framework for building the application. Data is stored and managed using the H2 in-memory database, which makes it easy to develop and test the application locally without the need for a separate database server.
