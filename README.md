@@ -34,6 +34,7 @@ This project uses an in-memory data storage approach, using H2 database in Java 
 The project uses Java objects as data structures. The application uses the following data structures:
 
 Job: Represents a job posting.
+
 JobType: Enumerated data structure representing different types of jobs.
 
 
